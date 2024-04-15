@@ -24,7 +24,7 @@ Developed a QR-code generator tool that generates QR codes for different purpose
 Implemented a face-following system using DJI Tello drone, leveraging computer vision techniques to track and follow faces autonomously.
 
 ### News Classifier
-Built a news classifier using machine learning algorithms to categorize news articles into different topics, aiding in information organization and retrieval.
+Built a news classifier using machine learning algorithms to categorize news articles into different categories of good, bad and neutral
 
 ## Contact 📬
 Feel free to reach out to me if you share similar interests or have exciting opportunities to collaborate!
